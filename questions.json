@@ -1,0 +1,23 @@
+[
+{
+	"question": "Who is CEO apple ?",
+	"answerA": "Bill Gates",
+	"answerB": "Steve Jobs",
+	"answerC": "Jeff Bezos",
+	"answer": "B"
+},
+{
+	"question": "How much is 2 + 2 ?",
+	"answerA": "4",
+	"answerB": "5",
+	"answerC": "6",
+	"answer": "A" 
+},
+{
+	"question": "What is the color of gold ?",
+	"answerA": "yellow",
+	"answerB": "green",
+	"answerC": "gold",
+	"answer": "C" 
+}
+]
